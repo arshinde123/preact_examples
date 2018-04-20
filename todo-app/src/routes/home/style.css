@@ -1,0 +1,14 @@
+.home {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+	margin-left: 38%
+}
+.btnStatus{
+	width:100%;
+	color:white;
+	padding:5px;
+	background-color: white;
+	border-style: none;
+	cursor: pointer;
+}

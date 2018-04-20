@@ -1,0 +1,9 @@
+
+.comp{
+	position: relative;
+	max-width: 15%;
+	padding: 20px;
+	border: 1px solid black;
+	margin-left: 40%;
+	margin-top: 1%;
+}
